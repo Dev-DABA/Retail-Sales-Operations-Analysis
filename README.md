@@ -15,7 +15,7 @@ The objective is to analyze Superstore’s transactional data to uncover trends,
 ## Files
 - Retail Sales & Operational Performance Analysis for Superstore.pbix : Visualization
 - SQL Script : Code
-- Clean data.csv: Sample Data
+- Business-Focused Sample of Superstore Data.csv: Sample Data
 
 ## Author
 Devanand Ravikumar
